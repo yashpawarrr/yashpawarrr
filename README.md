@@ -70,8 +70,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: kp@gmail.com
-- 💼 LinkedIn: *(Add your link here)*
+- 📧 Email: yashhpawar11@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/yashpawar-dev
 
 ---
 
