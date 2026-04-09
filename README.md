@@ -1,23 +1,78 @@
-Backend & DevOps Engineer
-Java • Spring Boot • AWS • Docker • Kubernetes
-Focused on scalable backend design, cloud deployment, and production-ready systems. Strong fundamentals. Consistent builder.
+# Hi 👋, I'm Yash Pawar
 
-🔹 Tech Stack 
+### 🚀 Backend & DevOps Engineer | Java • Spring Boot • AWS • Kubernetes
 
-Backend: Java, Spring Boot, REST APIs
-Frontend: React (basic integration)
-Databases: SQL / NoSQL
-DevOps: Docker, Kubernetes
-Cloud: AWS
-Practices: Clean Code, System Design Basics
+💡 Passionate about building **scalable backend systems**, deploying **cloud-native applications**, and writing **production-ready code**.
 
-I’m a backend-focused engineer working with Java and Spring Boot, with growing expertise in DevOps and cloud-native systems.
-I build production-oriented backend services, focusing on:
+---
 
-Clean architecture & RESTful APIs
-Database design & performance
-Containerization with Docker
-Kubernetes-based deployments
-AWS fundamentals for scalable systems
+## 🧑‍💻 About Me
 
-I believe in strong fundamentals, consistency, and learning by building.
+- 🔭 Currently focused on **Backend Engineering & DevOps**
+- 🌱 Learning advanced **Kubernetes, AWS & System Design**
+- ⚡ Strong believer in **Clean Code & Consistent Building**
+- 🎯 Goal: Become a **Cloud-Native Backend Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpawarrr&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpawarrr&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yashpawarrr&theme=tokyonight)
+
+---
+
+## 🚀 What I Build
+
+- 🔹 Scalable **REST APIs with Spring Boot**
+- 🔹 Containerized applications using **Docker**
+- 🔹 Deployment pipelines with **Kubernetes**
+- 🔹 Cloud-based systems on **AWS**
+- 🔹 Optimized database schemas & queries
+
+---
+
+## 🧠 Engineering Principles
+
+- ✅ Clean Architecture
+- ✅ SOLID Principles
+- ✅ Performance Optimization
+- ✅ Production-Ready Code
+- ✅ Continuous Learning
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: kp@gmail.com
+- 💼 LinkedIn: *(Add your link here)*
+
+---
+
+⭐ *"Consistency beats intensity. I build, learn, and improve every day."*
