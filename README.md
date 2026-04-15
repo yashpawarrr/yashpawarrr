@@ -7,9 +7,8 @@
 ### 🧑‍💻 About Me
 
 🔭 Building at the intersection of **Backend Engineering, Data Engineering & DevOps**
-🌱 Deep diving into **Kubernetes, AWS (Glue, EMR, S3), System Design & Distributed Systems**
+🌱 Deep diving into **Kubernetes, AWS (Glue, EMR, S3, EC2, etc), System Design & Distributed Systems**
 ⚡ Obsessed with **Clean Code, Automation & Real-World Impact**
-🏆 **GitHub Pull Shark Award 🦈** — for meaningful open-source contributions
 🎯 Mission: Become a **world-class Cloud & Data Infrastructure Engineer**
 
 ---
