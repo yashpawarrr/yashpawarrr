@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash Pawar
 
-### 🚀 Backend & DevOps Engineer | Java • Spring Boot • AWS • Kubernetes
+### 🚀 Data | Backend & DevOps Engineer | Java • Spring Boot • AWS • Kubernetes
 
 💡 Passionate about building **scalable backend systems**, deploying **cloud-native applications**, and writing **production-ready code**.
 
