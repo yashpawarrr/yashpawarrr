@@ -1,33 +1,26 @@
-# Hi 👋, I'm Yash Pawar
+🚀 **Yash Pawar | Backend • Data • DevOps Engineer | Cloud-Native Builder**
 
-### 🚀 Data | Backend & DevOps Engineer | Java • Spring Boot • AWS • Kubernetes
-
-💡 Passionate about building **scalable backend systems**, deploying **cloud-native applications**, and writing **production-ready code**.
+💡 I design **high-performance backend systems**, build **scalable data pipelines**, and deploy **cloud-native architectures** that are reliable, efficient, and production-ready.
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently focused on **Backend Engineering & DevOps**
-- 🌱 Learning advanced **Kubernetes, AWS & System Design**
-- ⚡ Strong believer in **Clean Code & Consistent Building**
-- 🎯 Goal: Become a **Cloud-Native Backend Engineer**
+🔭 Building at the intersection of **Backend Engineering, Data Engineering & DevOps**
+🌱 Deep diving into **Kubernetes, AWS (Glue, EMR, S3), System Design & Distributed Systems**
+⚡ Obsessed with **Clean Code, Automation & Real-World Impact**
+🏆 **GitHub Pull Shark Award 🦈** — for meaningful open-source contributions
+🎯 Mission: Become a **world-class Cloud & Data Infrastructure Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge)
+💻 **Backend Engineering**
+Java • Spring Boot • REST APIs • Microservices • Distributed Systems
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+📊 **Data Engineering**
+ETL Pipelines • AWS Glue • PySpark • Data Lakes (S3) • Data Modeling • Batch Processing
 
 ### ⚙️ DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,6 +28,13 @@
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -48,31 +48,41 @@
 
 ---
 
-## 🚀 What I Build
+### 🚀 What I Build
 
-- 🔹 Scalable **REST APIs with Spring Boot**
-- 🔹 Containerized applications using **Docker**
-- 🔹 Deployment pipelines with **Kubernetes**
-- 🔹 Cloud-based systems on **AWS**
-- 🔹 Optimized database schemas & queries
-
----
-
-## 🧠 Engineering Principles
-
-- ✅ Clean Architecture
-- ✅ SOLID Principles
-- ✅ Performance Optimization
-- ✅ Production-Ready Code
-- ✅ Continuous Learning
+🔹 Scalable **microservices & REST APIs** (Spring Boot)
+🔹 Robust **ETL pipelines using AWS Glue & PySpark**
+🔹 **Data lake architectures** on S3
+🔹 Fully **containerized systems (Docker + Kubernetes)**
+🔹 Automated **CI/CD pipelines & deployments**
+🔹 High-performance, optimized database systems
 
 ---
 
-## 📫 Connect With Me
+### 🧠 Engineering Philosophy
 
-- 📧 Email: yashhpawar11@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/yashpawar-dev
+✅ Clean Architecture & SOLID Principles
+✅ Build for scale from Day 1
+✅ Automation > Repetition
+✅ Measure, Optimize, Repeat
+✅ Systems > Scripts
 
 ---
 
-⭐ *"Consistency beats intensity. I build, learn, and improve every day."*
+### 📊 GitHub Presence
+
+📌 Open-source contributor with **merged PRs**
+📈 Building consistently across **Backend, DevOps & Data Engineering**
+🔥 Focused on real-world, production-grade systems
+
+---
+
+### 📫 Connect With Me
+
+📧 [yashhpawar11@gmail.com](mailto:yashhpawar11@gmail.com)
+💼 [www.linkedin.com/in/yashpawar-dev](http://www.linkedin.com/in/yashpawar-dev)
+
+---
+
+⚡ **"I don’t just write code — I build systems that scale, pipelines that flow, and infrastructure that lasts."**
+
